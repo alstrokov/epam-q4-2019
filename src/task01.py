@@ -1,4 +1,4 @@
-"""Determine if given number is polynome."""
+"""Determine if given number is palindrome."""
 
 
 def isPoly(number):
